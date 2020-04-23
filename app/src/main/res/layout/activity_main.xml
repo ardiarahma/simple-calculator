@@ -93,7 +93,7 @@
         </LinearLayout>
 
         <Button
-            android:id="@+id/btnClear"
+            android:id="@+id/btn_Clear"
             android:layout_width="match_parent"
             android:layout_height="70dp"
             android:layout_marginLeft="25dp"
@@ -112,7 +112,7 @@
             android:textSize="30dp" />
 
         <TextView
-            android:id="@+id/tvResult"
+            android:id="@+id/tv_Result"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
